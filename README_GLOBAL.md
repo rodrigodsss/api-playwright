@@ -1,5 +1,6 @@
 # 🚀 Enterprise-Grade API Automation \| Playwright + TypeScript
 
+![CI](https://github.com/SEU_USUARIO/SEU_REPO/actions/workflows/api-tests.yml/badge.svg)
 ![Playwright](https://img.shields.io/badge/Playwright-Test-green?logo=playwright)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-LTS-green?logo=node.js)
